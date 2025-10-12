@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+# SafeZone PPE Store
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Candidate Information
+- **Name:** Youssef Nader  
+- **Contact:** 01284196564  
+- **Email:** youssef.bader.dev@gmail.com  
+- **Time Spent:** Around 1 week  
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## Project Overview
+SafeZone PPE Store is a simple e-commerce project for selling Personal Protective Equipment (PPE) such as helmets, gloves, and safety glasses.  
+The project is built using **React.js** for the frontend, with the following features:
+- Display products by categories.  
+- Product detail page with description, image, price, and quantity selection.  
+- Add products to the cart.  
+- Update product quantity or remove items from the cart.  
+- Store cart data in **Local Storage**, so it persists even after page reload.  
+- Additional pages such as Login and Register.  
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## How It Works
+1. The user navigates to the **Products** page and sees all available categories.  
+2. Selecting a category displays its related products with a **View More** button.  
+3. Clicking on a product opens the **Product Detail** page where the user can:
+   - View product image and description  
+   - Check the price  
+   - Select the desired quantity  
+   - Add the product to the cart  
+4. In the **Cart** page, the user can:
+   - Increase or decrease the product quantity  
+   - Remove products from the cart  
+   - See the total price for each product  
+5. Cart data is stored in **Local Storage**, so the cart remains intact even if the page is closed and reopened.  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## Demo Video
+📹 Watch the project demo here:  
+[Google Drive Link](https://drive.google.com/drive/folders/1u75Zkyt0Ox18HXmqZ7VQM4ttLEWwzOwC?usp=drive_link)  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Assumptions
+- The project is developed as a **Frontend Prototype** only.  
+- No real backend is implemented (though integration with Django or .NET is possible in the future).  
+- Focus was mainly on **UI/UX** and cart management functionality.  
