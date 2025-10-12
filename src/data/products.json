@@ -1,0 +1,298 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Helmets",
+            "description": "Durable industrial safety helmets to protect workers from head injuries.",
+            "products": [
+                {
+                    "id": 101,
+                    "name": "Industrial Safety Helmet",
+                    "description": "Durable helmet with shock resistance for construction sites.",
+                    "price": 25.00,
+                    "image_url": "/assets/Products/helmets/helmet-1.png"
+                },
+                {
+                    "id": "102",
+                    "name": "Ventilated Safety Helmet",
+                    "description": "Lightweight helmet with ventilation slots for comfort.",
+                    "price": 28.50,
+                    "image_url": "/assets/Products/helmets/helmet-2.png"
+                },
+                {
+                    "id": "103",
+                    "name": "Full Brim Safety Helmet",
+                    "description": "Provides full head protection with brim against sun & rain.",
+                    "price": 30.00,
+                    "image_url": "/assets/Products/helmets/helmet-3.png"
+                },
+                {
+                    "id": "104",
+                    "name": "Electrician Safety Helmet",
+                    "price": 35.00,
+                    "description": "Non-conductive helmet designed for electrical work.",
+                    "image_url": "/assets/Products/helmets/helmet-4.png"
+                },
+                {
+                    "id": "105",
+                    "name": "Adjustable Safety Helmet",
+                    "description": "Adjustable strap helmet suitable for different head sizes.",
+                    "price": 22.00,
+                    "image_url": "/assets/Products/helmets/helmet-5.png"
+                },
+                {
+                    "id": "106",
+                    "name": "High-Visibility Safety Helmet",
+                    "description": "Bright-colored helmet with reflective strips for visibility.",
+                    "price": 27.00,
+                    "image_url": "/assets/Products/helmets/helmet-6.png"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Gloves",
+            "description": "Protective gloves designed for industrial and medical use.",
+            "products": [
+                {
+                    "id": 201,
+                    "name": "Anti-Cut Safety Gloves",
+                    "description": "Cut-resistant gloves suitable for heavy duty tasks.",
+                    "price": 15.50,
+                    "image_url": "/assets/Products/gloves/gloves-1.png"
+                },
+                {
+                    "id": 202,
+                    "name": "Chemical Resistant Gloves",
+                    "description": "Special gloves resistant to acids and chemicals.",
+                    "price": 18.00,
+                    "image_url": "/assets/Products/gloves/gloves-2.png"
+                },
+                {
+                    "id": 203,
+                    "name": "Heat Resistant Gloves",
+                    "description": "High-temperature gloves suitable for welding and ovens.",
+                    "price": 20.00,
+                    "image_url": "/assets/Products/gloves/gloves-3.png"
+                },
+                {
+                    "id": 204,
+                    "name": "Disposable Latex Gloves",
+                    "description": "Medical-grade disposable latex gloves for hygiene.",
+                    "price": 10.00,
+                    "image_url": "/assets/Products/gloves/gloves-4.png"
+                },
+                {
+                    "id": 205,
+                    "name": "Nitrile Work Gloves",
+                    "description": "Durable nitrile gloves with enhanced grip.",
+                    "price": 12.00,
+                    "image_url": "/assets/Products/gloves/gloves-5.png"
+                },
+                {
+                    "id": 206,
+                    "name": "Leather Safety Gloves",
+                    "description": "Thick leather gloves for construction and outdoor tasks.",
+                    "price": 16.00,
+                    "image_url": "/assets/Products/gloves/gloves-6.png"
+                }
+            ] 
+        },
+        {
+            "id": 3,
+            "name": "Reflective Vests",
+            "description": "High-visibility vests for workers in outdoor and traffic areas.",
+            "products": [
+                {
+                    "id": 301,
+                    "name": "Yellow Reflective Vest",
+                    "description": "High visibility reflective vest for outdoor work.",
+                    "price": 12.00,
+                    "image_url": "/assets/Products/reflective vests/vest-1.png"
+                },
+                {
+                    "id": 302,
+                    "name": "Orange Reflective Vest",
+                    "description": "Orange reflective vest with multiple pockets.",
+                    "price": 14.00,
+                    "image_url": "/assets/Products/reflective vests/vest-2.png"
+                },
+                {
+                    "id": 303,
+                    "name": "Premium Reflective Vest",
+                    "description": "Premium material reflective vest with zipper.",
+                    "price": 20.00,
+                    "image_url": "/assets/Products/reflective vests/vest-3.png"
+                },
+                {
+                    "id": 304,
+                    "name": "Kids Reflective Vest",
+                    "description": "Reflective vest suitable for children safety.",
+                    "price": 10.00,
+                    "image_url": "/assets/Products/reflective vests/vest-4.png"
+                },
+                {
+                    "id": 305,
+                    "name": "Mesh Reflective Vest",
+                    "description": "Lightweight mesh reflective vest for hot weather.",
+                    "price": 13.50,
+                    "image_url": "/assets/Products/reflective vests/vest-5.png"
+                },
+                {
+                    "id": 306,
+                    "name": "Deluxe Reflective Vest",
+                    "description": "Deluxe vest with enhanced reflective strips.",
+                    "price": 18.00,
+                    "image_url": "/assets/Products/reflective vests/vest-6.png"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Safety Shoes",
+            "description": "Industrial-grade safety shoes for foot protection.",
+            "products": [
+                {
+                    "id": 401,
+                    "name": "Steel Toe Safety Shoes",
+                    "description": "Protective shoes with steel toe cap for industrial workers.",
+                    "price": 40.00,
+                    "image_url": "/assets/Products/safety shoes/shoes-1.png"
+                },
+                {
+                    "id": 402,
+                    "name": "Lightweight Safety Shoes",
+                    "description": "Breathable lightweight safety shoes with comfort fit.",
+                    "price": 35.00,
+                    "image_url": "/assets/Products/safety shoes/shoes-2.png"
+                },
+                {
+                    "id": 403,
+                    "name": "Waterproof Safety Boots",
+                    "description": "Heavy-duty waterproof safety boots for outdoor work.",
+                    "price": 50.00,
+                    "image_url": "/assets/Products/safety shoes/shoes-3.png"
+                },
+                {
+                    "id": 404,
+                    "name": "Slip Resistant Shoes",
+                    "description": "Slip-resistant safety shoes suitable for factories.",
+                    "price": 38.00,
+                    "image_url": "/assets/Products/safety shoes/shoes-4.png"
+                },
+                {
+                    "id": 405,
+                    "name": "High Ankle Safety Boots",
+                    "description": "High ankle boots for enhanced ankle support.",
+                    "price": 45.00,
+                    "image_url": "/assets/Products/safety shoes/shoes-5.png"
+                },
+                {
+                    "id": 406,
+                    "name": "Composite Toe Safety Shoes",
+                    "description": "Light composite toe shoes for electrical safety.",
+                    "price": 42.00,
+                    "image_url": "/assets/Products/safety shoes/shoes-6.png"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "First Aid Kits",
+            "description": "Essential first aid kits for workplace safety.",
+            "products": [
+                {
+                    "id": 501,
+                    "name": "Compact First Aid Kit",
+                    "description": "Portable first aid kit with essential medical supplies.",
+                    "price": 20.00,
+                    "image_url": "/assets/Products/first aid kits/aid kit-1.png"
+                },
+                {
+                    "id": 502,
+                    "name": "Workplace First Aid Box",
+                    "description": "Large first aid box for office or factory use.",
+                    "price": 35.00,
+                    "image_url": "/assets/Products/first aid kits/aid kit-2.png"
+                },
+                {
+                    "id": 503,
+                    "name": "Travel First Aid Kit",
+                    "description": "Compact kit suitable for travel and outdoor use.",
+                    "price": 18.00,
+                    "image_url": "/assets/Products/first aid kits/aid kit-3.png"
+                },
+                {
+                    "id": 504,
+                    "name": "Deluxe First Aid Kit",
+                    "description": "Deluxe kit with bandages, antiseptics, and tools.",
+                    "price": 40.00,
+                    "image_url": "/assets/Products/first aid kits/aid kit-4.png"
+                },
+                {
+                    "id": 505,
+                    "name": "Car First Aid Kit",
+                    "description": "Emergency first aid kit designed for vehicles.",
+                    "price": 22.00,
+                    "image_url": "/assets/Products/first aid kits/aid kit-5.png"
+                },
+                {
+                    "id": 506,
+                    "name": "Outdoor First Aid Kit",
+                    "description": "First aid kit suitable for camping and outdoor adventures.",
+                    "price": 28.00,
+                    "image_url": "/assets/Products/first aid kits/aid kit-6.png"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Goggles",
+            "description": "Protective goggles for eye safety in various environments.",
+            "products": [
+                {
+                    "id": 601,
+                    "name": "Anti-Fog Safety Goggles",
+                    "description": "Anti-fog goggles providing clear vision in humid environments.",
+                    "price": 12.00,
+                    "image_url": "/assets/products/goggles/goggles-1.png"
+                },
+                {
+                    "id": 602,
+                    "name": "Chemical Splash Goggles",
+                    "description": "Special goggles to protect against chemical splashes.",
+                    "price": 15.00,
+                    "image_url": "/assets/products/goggles/goggles-2.png"
+                },
+                {
+                    "id": 603,
+                    "name": "Welding Safety Goggles",
+                    "description": "Dark-tinted goggles designed for welding tasks.",
+                    "price": 18.00,
+                    "image_url": "/assets/products/goggles/goggles-3.png"
+                },
+                {
+                    "id": 604,
+                    "name": "Impact Resistant Goggles",
+                    "description": "Impact resistant goggles for industrial environments.",
+                    "price": 20.00,
+                    "image_url": "/assets/products/goggles/goggles-4.png"
+                },
+                {
+                    "id": 605,
+                    "name": "UV Protection Goggles",
+                    "description": "Protects eyes from UV radiation, ideal for outdoor tasks.",
+                    "price": 22.00,
+                    "image_url": "/assets/products/goggles/goggles-5.png"
+                },
+                {
+                    "id": 606,
+                    "name": "Adjustable Strap Goggles",
+                    "description": "Comfortable goggles with adjustable straps for secure fit.",
+                    "price": 14.00,
+                    "image_url": "/assets/products/goggles/goggles-6.png"
+                }
+            ]
+        }
+    ]
+}
