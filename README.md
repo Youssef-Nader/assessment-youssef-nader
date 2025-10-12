@@ -4,7 +4,7 @@
 - **Name:** Youssef Nader  
 - **Contact:** 01284196564  
 - **Email:** youssef.bader.dev@gmail.com  
-- **Time Spent:** Around 1 week  
+- **Time Spent:**  1 week  
 
 ---
 
