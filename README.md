@@ -3,7 +3,7 @@
 ## Candidate Information
 - **Name:** Youssef Nader  
 - **Contact:** 01284196564  
-- **Email:** youssef.bader.dev@gmail.com  
+- **Email:** youssef.nader.dev@gmail.com  
 - **Time Spent:**  1 week  
 
 ---
