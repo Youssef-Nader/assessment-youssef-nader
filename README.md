@@ -36,12 +36,6 @@ The project is built using **React.js** for the frontend, with the following fea
 
 ---
 
-## Demo Video
-📹 Watch the project demo here:  
-[Google Drive Link](https://drive.google.com/drive/folders/1u75Zkyt0Ox18HXmqZ7VQM4ttLEWwzOwC?usp=drive_link)  
-
----
-
 ## Assumptions
 - The project is developed as a **Frontend Prototype** only.  
 - No real backend is implemented (though integration with Django or .NET is possible in the future).  
